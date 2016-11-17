@@ -1,5 +1,6 @@
 
-Body {Background-color:#323232;}
+Body {Background-color:#323232;
+	text-align:center;}
 p {color:skyblue;}
 a:link {color:green;
 		font-style:Arial;}
