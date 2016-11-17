@@ -2,7 +2,9 @@
 Body {Background-color:#323232;
 	text-align:center;}
 p {color:skyblue;}
-a:link {color:green;
+a:link {color:White;
 		font-style:Arial;}
-a:visited {color:green;
+a:visited {color:White;
 		font-style:Arial;}
+a:hover {color:Blue; font-style:italic; font-weight:bold; font-size:16;}
+
