@@ -6,5 +6,5 @@ a:link {color:White;
 a:visited {color:White;
 		font-style:Arial;}
 a:hover {color:Lime; font-style:italic; font-weight:bold; font-size:16;}
-table {color:Gold; padding:3px; height:50px;}
+table {color:null; padding:3px; height:50px;}
 td {background-color:gold; text-algin:center;}
