@@ -1,6 +1,16 @@
-#EXTM#U
-#EXTINF:-1,MTA http://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/master.m3u8
-#EXTINF:-1,PTV Home http://app.pakistanvision.tv:1935/live/PTVhome/player.m3u8
-#EXTINF:-1,PTV NEWS http://app.pakistanvision.tv:1935/live/PTVnews/player.m3u8
-#EXTINF:-1,PTV WORLD http://app.pakistanvision.tv:1935/live/8090/player.m3u8
-#EXTINF:-1,Dunya News http://app.pakistanvision.tv:1935/live/8090/player.m3u8
+#EXTM3U
+
+#EXTINF:-1,MTA 
+http://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/master.m3u8
+
+#EXTINF:-1,PTV Home 
+http://app.pakistanvision.tv:1935/live/PTVhome/player.m3u8
+
+#EXTINF:-1,PTV NEWS 
+http://app.pakistanvision.tv:1935/live/PTVnews/player.m3u8
+
+#EXTINF:-1,PTV WORLD 
+http://app.pakistanvision.tv:1935/live/8090/player.m3u8
+
+#EXTINF:-1,Dunya News 
+http://app.pakistanvision.tv:1935/live/8090/player.m3u8
