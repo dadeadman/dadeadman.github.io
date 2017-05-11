@@ -15,17 +15,8 @@ http://app.pakistanvision.tv:1935/live/8090/player.m3u8
 #EXTINF:-1,Dunya News 
 http://app.pakistanvision.tv:1935/live/8090/player.m3u8
 
-#EXTINF:-1,HUM TV 
-http://95.0.194.146:8000/play/a01y 
-
 #EXTINF:-1,Sabzbaat TV 
 http://95.0.194.146:8000/play/a01v 
-
-#EXTINF:-1,STUDIO N 
-http://95.0.194.146:8000/play/a02z 
-
-#EXTINF:-1,Super Screen 
-http://95.0.194.146:8000/play/a05v 
 
 #EXTINF:-1,DTV 
 http://95.0.194.146:8000/play/a05z 
@@ -33,35 +24,8 @@ http://95.0.194.146:8000/play/a05z
 #EXTINF:-1,Ahlebait TV 
 http://95.0.194.146:8000/play/a05s 
 
-#EXTINF:-1,KALAIGNAR ISAI ARUVI 
-http://95.0.194.146:8000/play/a05g 
-
 #EXTINF:-1,Star Max 
 http://95.0.194.146:8000/play/a05y 
 
-#EXTINF:-1,MASALA TV 
-http://95.0.194.146:8000/play/a01z 
-
 #EXTINF:-1,Movie Box TV 
-http://95.0.194.146:8000/play/a051 
-
-#EXTINF:-1,Bethat TV 
-http://95.0.194.146:8000/play/a05t 
-
-#EXTINF:-1,NEWS7 TAMIL 
-http://95.0.194.146:8000/play/a05m 
-
-#EXTINF:-1,ARYDigitalAsia 
-http://95.0.194.146:8000/play/a00d 
-
-#EXTINF:-1,LIVING INDIA NEWS TEST 
-http://95.0.194.146:8000/play/a01m 
-
-#EXTINF:-1,Joo Music 
-http://95.0.194.146:8000/play/a061 
-
-#EXTINF:-1,POLIMER NEWS 
-http://95.0.194.146:8000/play/a033 
-
-#EXTINF:-1,MK TELEVISION 
-http://95.0.194.146:8000/play/a034
+http://95.0.194.146:8000/play/a051  
