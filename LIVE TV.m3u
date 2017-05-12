@@ -50,3 +50,36 @@ http://95.0.194.146:8000/play/a05y
 
 #EXTINF:-1,Movie Box TV 
 http://95.0.194.146:8000/play/a051  
+
+#EXTINF:0 tvg-id="Seven" tvg-logo="http://tv.cramer.id.au/australia/Seven.png" group-title="TV" group-logo="icon-folder.png",7
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224814/SYD1/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/7TWO.png" group-title="TV",7Two
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224827/SYD2/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/7mate.png" group-title="TV",7mate
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224840/SYD3/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/7flix.png" group-title="TV",7flix
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224857/SYD6/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/9.png" group-title="TV",9
+https://9nowch9livehls-i.akamaihd.net/hls/live/250964/sydney/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/9Gem.png" group-title="TV",9Gem
+https://9nowgemlivehls-i.akamaihd.net/hls/live/250974/sydney/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/9Go.png" group-title="TV",9Go!
+https://9nowgolivehls-i.akamaihd.net/hls/live/250987/sydney/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/_/rsrc/1463791193837/australia/9Life.png" group-title="TV",9Life
+https://9nowlifelivehls-i.akamaihd.net/hls/live/250994/sydney/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/_/rsrc/1473566065916/australia/ten.png" group-title="TV",ten
+http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDTEN.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/_/rsrc/1473564655349/australia/sbs.png" group-title="TV",SBS
+http://sbslivefvstreaming.sbs.com.au/out/u/sbs1-mo-000-c3093-delpkg1-delpkg1-abr/index-root-ipad.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/abcnews24.png" group-title="TV",ABC24
+www.abc.net.au/res/streaming/video/hls/news24.m3u8_hi
